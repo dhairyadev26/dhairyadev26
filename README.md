@@ -1,5 +1,15 @@
-# 💫 About Me:
-👋 About Me<br>Hi, I’m Dhairya!<br>I'm a passionate developer and tech enthusiast who loves building impactful projects and exploring new technologies. My journey in software development has led me to work on a variety of projects, from web apps to automation tools, and I’m always eager to learn more.<br><br>🌱 Currently learning: Next.js, TypeScript, and advanced backend frameworks<br><br>👨‍💻 Most of my projects are available on my GitHub<br><br>💬 Ask me about: JavaScript, React, Node.js, and open-source contributions<br><br>⚡ Fun fact: I enjoy solving coding challenges and sharing knowledge with the community<br><br>Let’s connect and collaborate on exciting ideas!
+# 💫 About Me
+
+👋 Hi, I’m Dhairya Dave!  
+I’m a **Computer Engineering student and full-stack developer** passionate about building scalable web solutions and contributing to open source. My work spans from **WordPress plugins/themes** to **React.js apps** and **automation tools**, with a focus on clean, maintainable, and impactful code.  
+
+🌱 **Currently learning:** Advanced WordPress development, TypeScript, Next.js, and CI/CD workflows  
+👨‍💻 **Core skills:** JavaScript, PHP, MySQL, React.js, Node.js, WordPress, Git  
+💡 **Interests:** Open-source contributions, web performance optimization, and AI-driven applications  
+💬 **Ask me about:** WordPress plugin/theme development, MERN stack, and test automation  
+⚡ **Fun fact:** I enjoy hackathons, solving coding challenges, and designing user-friendly interfaces  
+
+🚀 Let’s connect, collaborate, and build something awesome together!  
 
 
 ## 🌐 Socials:
