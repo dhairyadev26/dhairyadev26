@@ -27,7 +27,7 @@ I’m a **Computer Engineering student and full-stack developer** passionate abo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![snake gif](https://github.com/dhairyadev26/dhairyadev26/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/dhairyadev26/dhairyadev26/blob/output/github-snake-light.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=dhairyadev26&icon=0&color=0)](https://visitcount.itsvg.in)
 
